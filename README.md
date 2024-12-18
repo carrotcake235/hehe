@@ -1,3 +1,3 @@
 you found where i store my clips hehe
 
-all encoded in av1
+encoded in av1 and x264
